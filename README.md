@@ -7,12 +7,12 @@ AirBnB clone - MySQL
 ## Table of Contents
 - Project General Objectives
   - Project Description
-Directory Files Description
-Prerequisites
-Built With
-AUTHORS
-License
-Acknowledgments
+  - Directory Files Description
+  - Prerequisites
+  - Built With
+  - AUTHORS
+  - License
+  - Acknowledgments
 ## Project General Objectives
 - What is Unit testing and how to implement it in a large project.
 - What is *args and how to use it.
