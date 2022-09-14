@@ -58,17 +58,17 @@ TESTS	Directory that contains all the Unittest files to test the different class
 ##Prerequisites
 This program was made and tested using Ubuntu 14.04.3 LTS and Python 3.4.3 So we recommend you to test this command interpreter under this conditions.
 
-###Built With
-Ubuntu 14.04.3 LTS Running on a Virtual Machine "Vagrant"
-GNU Emacs 24.3.1
-Python 3.4.3
-##AUTHORS
+### Built With
+- Ubuntu 14.04.3 LTS Running on a Virtual Machine "Vagrant"
+- GNU Emacs 24.3.1
+- Python 3.4.3
+## AUTHORS
 Vicent nkutigwa
-Github @nkutigwa
-https://github.com/nkutigwa
+- Github @nkutigwa
+- https://github.com/nkutigwa
 
 
 Blessing Nathan
-Github @blessnathan01
-https://github.com/blessnathan01
+- Github @blessnathan01
+- https://github.com/blessnathan01
 
