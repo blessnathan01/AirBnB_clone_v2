@@ -1,9 +1,6 @@
-# AirBnB_clone_v2
+# AirBnB_clone_v2 - MYSQL
 ## This directory contains all the tasks of the project "0x02. AirBnB clone - MySQL" at ALX SE Program
 
-
-Table of Contents
-AirBnB clone - MySQL
 ## Table of Contents
 - Project General Objectives
   - Project Description
@@ -25,11 +22,12 @@ AirBnB clone - MySQL
 - How to handle 2 different storage engines with the same codebase.
 - How to use environment variables.
 ## Project Description
-The Airbnb clone is one of the main projects at Holberton School, it's a long term project that we need to accomplish by building up trough a series of small modules or pieces. This project is thinking as a whole for a software developer, to learn and become a full-stack developer, gluing alltogether the infrastructure of the Airbnb from back to front, including databases, static and dynamic content, web frameworks, APIs, and web infrastructure. The first step that we need to build is "the console" or the command interpreter, this is meant to be a tool to validate or manipulate the storage system, through the console we are gonna be able of:
+The Airbnb clone is one of the main projects at ALX SE Program, it's a long term project that we need to accomplish by building up trough a series of small modules or pieces. This project is thinking as a whole for a software developer, to learn and become a full-stack developer, gluing alltogether the infrastructure of the Airbnb from back to front, including databases, static and dynamic content, web frameworks, APIs, and web infrastructure. The first step that we need to build is "the console" or the command interpreter, this is meant to be a tool to validate or manipulate the storage system, through the console we are gonna be able of:
 
-Create our data model.
-Manage (create, update, destroy, etc) objects.
-Store and persist objects to a file (JSON file)
+- Create our data model.
+- Manage (create, update, destroy, etc) objects.
+- Store and persist objects to a file (JSON file)
+
 This storage engine will give us an abstraction between “My object” and “How they are stored and persisted”.
 
 You can find this in: AirBnB clone - The console
