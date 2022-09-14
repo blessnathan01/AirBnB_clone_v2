@@ -2,14 +2,15 @@
 ## This directory contains all the tasks of the project "0x02. AirBnB clone - MySQL" at ALX SE Program
 
 ## Table of Contents
-- Project General Objectives
-  - Project Description
-  - Directory Files Description
-  - Prerequisites
-  - Built With
-  - AUTHORS
-  - License
-  - Acknowledgments
+- [AirBnB clone - MySQL]
+  - [Project General Objectives]
+  - [Project Description]
+  - [Directory Files Description]
+  - [Prerequisites]
+  - [Built With]
+  - [AUTHORS]
+  - [License]
+  - [Acknowledgments]
 ## Project General Objectives
 - What is Unit testing and how to implement it in a large project.
 - What is *args and how to use it.
